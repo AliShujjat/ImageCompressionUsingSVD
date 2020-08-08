@@ -2,6 +2,10 @@
 
 ![Test Image](Images/image.jpg)
 
+Compressed Image
+
+![Test Image](Images/compressed.jpg)
+
 After using just the 1st eigenvalue
 
 ![Test Image](Images/First.png)
