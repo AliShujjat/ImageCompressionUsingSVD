@@ -18,7 +18,7 @@ After using the first 81 eigenvalues
 
 ![Test Image](Images/eightyone.png)
 
-##References
+## References
 
 https://medium.com/@rameshputalapattu/jupyter-python-image-compression-and-svd-an-interactive-exploration-703c953e44f6
 
