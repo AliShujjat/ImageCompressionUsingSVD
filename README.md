@@ -1,3 +1,3 @@
 # ImageCompressionUsingSVD
 
-![Test Image](Images/Image.jpg)
+![Test Image](Images/image.jpg)
