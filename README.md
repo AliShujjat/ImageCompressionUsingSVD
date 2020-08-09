@@ -28,4 +28,6 @@ https://medium.com/@rameshputalapattu/jupyter-python-image-compression-and-svd-a
 
 https://hadrienj.github.io/posts/Deep-Learning-Book-Series-2.8-Singular-Value-Decomposition/
 
+https://github.com/shubhamjangid/Image-Compression-Using-SVD/blob/master/compression.ipynb
+
 https://pillow.readthedocs.io/en/4.0.x/reference/Image.html
