@@ -1,5 +1,8 @@
 # ImageCompressionUsingSVD
 
+Results:
+
+
 ![Test Image](Images/image.jpg)
 
 Compressed Image
@@ -21,6 +24,7 @@ After using the first 61 eigenvalues
 After using the first 81 eigenvalues
 
 ![Test Image](Images/eightyone.png)
+
 
 ## References
 
